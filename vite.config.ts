@@ -11,5 +11,5 @@ export default defineConfig({
     host: '0.0.0.0',  // 👈 allows connections from your phone
     port: 3000,       // 👈 optional, sets fixed port
   },
-  base: "/erciitb.github.io/"
+  base: "/semicolonmissin.github.io/"
 });

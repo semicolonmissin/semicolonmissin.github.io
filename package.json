@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://erciitb.github.io/",
+  "homepage": "https://semicolonmissin.github.io/",
   "type": "module",
   "scripts": {
     "deploy" : "gh-pages -d dist",
