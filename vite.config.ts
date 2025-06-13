@@ -11,5 +11,4 @@ export default defineConfig({
     host: '0.0.0.0',  // 👈 allows connections from your phone
     port: 3000,       // 👈 optional, sets fixed port
   },
-  base: "/semicolonmissin.github.io/"
 });
